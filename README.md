@@ -17,7 +17,7 @@ The Resume section links to a downloadable resume and a list of my proficiencies
 ​
 ## Usage 
 ​
-Visit the deployed site at http://maxaeongithub.io/react-portfolio
+Visit the deployed site at http://maxaeon.github.io/react-portfolio
 
 ​
 ## Credits
