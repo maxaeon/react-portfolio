@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/20.-React-Challenge-React-Portfolio/static/css/main.0a968335.chunk.css",
+    "main.js": "/20.-React-Challenge-React-Portfolio/static/js/main.eb2d1a56.chunk.js",
+    "main.js.map": "/20.-React-Challenge-React-Portfolio/static/js/main.eb2d1a56.chunk.js.map",
+    "runtime-main.js": "/20.-React-Challenge-React-Portfolio/static/js/runtime-main.5975f93e.js",
+    "runtime-main.js.map": "/20.-React-Challenge-React-Portfolio/static/js/runtime-main.5975f93e.js.map",
+    "static/css/2.4be38407.chunk.css": "/20.-React-Challenge-React-Portfolio/static/css/2.4be38407.chunk.css",
+    "static/js/2.5d9a6ddf.chunk.js": "/20.-React-Challenge-React-Portfolio/static/js/2.5d9a6ddf.chunk.js",
+    "static/js/2.5d9a6ddf.chunk.js.map": "/20.-React-Challenge-React-Portfolio/static/js/2.5d9a6ddf.chunk.js.map",
+    "static/js/3.7a2db5e2.chunk.js": "/20.-React-Challenge-React-Portfolio/static/js/3.7a2db5e2.chunk.js",
+    "static/js/3.7a2db5e2.chunk.js.map": "/20.-React-Challenge-React-Portfolio/static/js/3.7a2db5e2.chunk.js.map",
+    "index.html": "/20.-React-Challenge-React-Portfolio/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/20.-React-Challenge-React-Portfolio/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.0a968335.chunk.css.map": "/20.-React-Challenge-React-Portfolio/static/css/main.0a968335.chunk.css.map",
+    "static/js/2.5d9a6ddf.chunk.js.LICENSE.txt": "/20.-React-Challenge-React-Portfolio/static/js/2.5d9a6ddf.chunk.js.LICENSE.txt",
+    "static/media/DevResume.8dc4c84e.pdf": "/20.-React-Challenge-React-Portfolio/static/media/DevResume.8dc4c84e.pdf",
+    "static/media/PortfolioImage.d8e1e1e7.jpg": "/20.-React-Challenge-React-Portfolio/static/media/PortfolioImage.d8e1e1e7.jpg",
+    "static/media/chickenrun.01807151.png": "/20.-React-Challenge-React-Portfolio/static/media/chickenrun.01807151.png",
+    "static/media/covid.fa091bb2.png": "/20.-React-Challenge-React-Portfolio/static/media/covid.fa091bb2.png",
+    "static/media/philhub.7ac12d55.png": "/20.-React-Challenge-React-Portfolio/static/media/philhub.7ac12d55.png",
+    "static/media/schedule.ceb20b6f.png": "/20.-React-Challenge-React-Portfolio/static/media/schedule.ceb20b6f.png",
+    "static/media/weather.cbee7e67.png": "/20.-React-Challenge-React-Portfolio/static/media/weather.cbee7e67.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5975f93e.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.5d9a6ddf.chunk.js",
+    "static/css/main.0a968335.chunk.css",
+    "static/js/main.eb2d1a56.chunk.js"
+  ]
+}
