@@ -1,5 +1,5 @@
 import React from "react";
-import PortfolioImage from "../../assets/PortfolioImage.JPG";
+import PortfolioImage from "../../assets/PortfolioImage.jpg";
 import {
   FaGitAlt,
   FaGithub,
