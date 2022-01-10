@@ -21,12 +21,12 @@ const Portfolio = (singleProject) => {
     },        
     {
       title: "Chicken Run",
-      summary: "This application is designed to provide COVID-19 information to users in an easy-to-access manner. Whereas most informational apps about COVID-19 display an overwhelming amount of information organized in a less-than-ideal fashion, our site is designed with the user in mind, so statistics about national and continental data is easily identifiable, and with a click of the mouse, users can access COVID-19 data specifically about their selected state.",
+      summary: "The project allows users to register for an account, access information about various plants and animals, add information to this database, as well as organize their farming activities in a calendar.",
       image: chickenrun,
       technologies: "Handlebars, JavaScript",
       deployedLink: "https://chicken-running.herokuapp.com/",
       github: "https://github.com/maxaeon/project-2/",
-    },    
+    },
     {
       title: "Philosophers' Hub",
       summary: "An online resource for philosophers from all walks of life.",
@@ -37,7 +37,7 @@ const Portfolio = (singleProject) => {
     },
     {
       title: "Weather Forecast",
-      summary: "​This application allows travelers to plan their trips according to the weather forecast by providing the weather outlook for multiple cities. Retrieves weather data from the OpenWeather One Call API.",
+      summary: "This application allows travelers to plan their trips according to the weather forecast by providing the weather outlook for multiple cities. Retrieves weather data from the OpenWeather One Call API.",
       image: weather,
       technologies: "JavaScript, OpenWeatherMap API, localStorage",
       deployedLink: "https://maxaeon.github.io/weather",
