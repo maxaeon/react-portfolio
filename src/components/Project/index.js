@@ -22,7 +22,7 @@ const Projects = ({ singleProject }) => {
     <Card
       style={{
         width: "20rem",
-        margin: "20px 50px 20px 10px", backgroundColor: "#EAF4D3" 
+        margin: "20px 50px 20px 10px", backgroundColor: "#f4cccc" 
       }}
       key={singleProject.title} className="col-3"
     >
@@ -37,7 +37,7 @@ const Projects = ({ singleProject }) => {
         alt={singleProject.title}
         style={{ position: "relative" }}
       />
-      <Card.Body style={{ backgroundColor: "#EAF4D3"}}>
+      <Card.Body style={{ backgroundColor: "#f4cccc"}}>
         <Card.Text style={{ fontSize: "17px" }} className="text-muted">
           {"Built with: "}
           <Card.Text style={{ fontSize: "15px" }} className="text-muted">{singleProject.technologies}</Card.Text>
